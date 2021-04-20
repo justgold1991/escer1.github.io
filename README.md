@@ -1,4 +1,4 @@
-# escer1.github.io
+
 <html>
 <head>
 <title> Ма́уриц Корне́лис Эшер</title>
